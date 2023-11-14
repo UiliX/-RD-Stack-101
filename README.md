@@ -1,4 +1,4 @@
-# RD-Stack-101
+# Rapid Deployment Stack 101
 AplineOS, Docker, Supervisor, Flask[-Imp], Gunicorn
 
 www.website.com
